@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+EMS.iml
+pom.xml
+src/
+web/WEB-INF/
+web/index.jsp
